@@ -14,6 +14,9 @@ As a result, these postings are recommended for each user to consume the suggest
 
 3.   We compose it all together and together with the nearest neighbors algorithm we build a recommenstation system 
 
+## Code and report
+Code, comments and report exist in the notebook which you can open in Colab from here [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AGiannoutsos/NMF-Recommendation-System/blob/main/Non_Negative_Matrix_Factorization_for_Recommendation_System.ipynb)
+
 
 ## Non Negative Matrix Factorization
 NMF is a method of reducing dimensions like PCA, but NMF keeps the components and characteristics of the arrays positive. The aim is to export easily interpretable components to media that by their nature can not display negative values ​​such as the pixels of an image, video, spectral data of audio, for understanding the meaning of text and more.
