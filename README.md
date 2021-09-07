@@ -15,7 +15,7 @@ As a result, these postings are recommended for each user to consume the suggest
 3.   We compose it all together and together with the nearest neighbors algorithm we build a recommenstation system 
 
 ## Code and report
-Code, comments and report exist in the notebook which you can open in Colab from here [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/AGiannoutsos/NMF-Recommendation-System/blob/main/Non_Negative_Matrix_Factorization_for_Recommendation_System.ipynb)
+Code, comments and report exist in the notebook which you can open in Colab from here [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AGiannoutsos/NMF-Recommendation-System/blob/main/Non_Negative_Matrix_Factorization_for_Recommendation_System.ipynb)
 
 
 ## Non Negative Matrix Factorization
